@@ -11,7 +11,7 @@
 
 - 💜 Meu nome é Wyara e tenho 26 anos  
 - 🌍 Sou de Contagem, MG  
-- 💻 Estudo Análise e Desenvolvimento de Sistemas na Anhanguera  
+- 💻 Estudo Análise e Desenvolvimento de Sistemas na Anhanguera🧡  e Tecnico em Desenvolvimento de sistemas na Proz Educação.💜
 - ⚡ Amo aprender sobre os mais variados assuntos  
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Skills
