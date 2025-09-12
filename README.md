@@ -49,6 +49,6 @@
   <img src="https://i.pinimg.com/originals/f5/75/2c/f5752c7c9f03832209f0bb8b57214281.gif" width="120"/>
 </p>
 
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5f.gif" width="100%"/>
-![Contador de visitas](https://komarev.com/ghpvc/?username=WyaraFatimaSa&color=blue)
 
