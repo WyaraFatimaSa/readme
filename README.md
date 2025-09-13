@@ -25,8 +25,8 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WyaraFatimaSa&theme=dark&show_icons=true&hide_title=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WyaraFatimaSa&layout=compact&theme=dark" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=WyaraFatimaSa&theme=dark&show_icons=true&hide_title=true&cache_seconds=1800" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WyaraFatimaSa&layout=compact&theme=dark&cache_seconds=1800" alt="Top Languages"/>
 </div>
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="30px"> Contact Me
@@ -51,5 +51,3 @@
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5f.gif" width="100%"/>
-
-<span style="display:none">atualização forçada</span>
