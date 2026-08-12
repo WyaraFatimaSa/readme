@@ -9,9 +9,10 @@
 ## <img src="https://media2.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="25"> About Me
 <img width="20%" align="right" alt="Github" src="https://octodex.github.com/images/femalecodertocat.png"  />
 
-- 💜 Meu nome é Wyara e tenho 26 anos  
-- 🌍 Sou de Contagem, MG  
-- 💻 Estudo Análise e Desenvolvimento de Sistemas na Anhanguera🧡  e Tecnico em Desenvolvimento de sistemas na Proz Educação.💜
+- 💜 Meu nome é Wyara e tenho 27 anos  
+- 🌍 Sou de Contagem, MG
+- 💻 Tecnica em Desenvolvimento de sistemas pela Proz Educação.💜
+- 💻 Graduanda em  Análise e Desenvolvimento de Sistemas na Anhanguera 
 - ⚡ Amo aprender sobre os mais variados assuntos.
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Skills
